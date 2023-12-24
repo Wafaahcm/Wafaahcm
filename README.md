@@ -35,6 +35,10 @@
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![.NET](https://img.shields.io/badge/.NET-%5C%23C41.svg?style=for-the-badge&logo=.net&logoColor=white)
+    ![ASP.NET](https://img.shields.io/badge/ASP.NET-%231570B6.svg?style=for-the-badge&logo=.net&logoColor=white)
+
    
     
 - 🎨 Frameworks
