@@ -5,6 +5,15 @@
   <p align="center"><img src="https://i.ibb.co/GWTFnhh/1.png" alt="1" border="0" "></p>
 </a>
 
+<p> 
+I am Amardeep Kesharwani, a passionate self-taught full stack web developer, working in both backend and frontend programming. 
+I love solving problems.
+I have experience in backend as well as frontent development and also
+Love competitive programming.
+I am also confident with Data Structures and
+Algorithms, Object-Oriented Programming, Database
+Management Systems, Operating Systems
+</p>
 
 ## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
 
