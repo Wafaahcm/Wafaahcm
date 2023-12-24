@@ -21,9 +21,10 @@
 - 📫 How to reach me: Contact part
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I never thought I would become a .net programmer!
-## Connect with me:
+  
+<h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://linkedin.com/in/wafaa hachem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wafaa hachem" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/wafaa hachem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wafaa hachem" height="30" width="40" /></a>
 </p>
 <br>
 
