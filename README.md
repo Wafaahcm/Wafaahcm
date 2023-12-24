@@ -13,15 +13,6 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-<p> 
-I am Amardeep Kesharwani, a passionate self-taught full stack web developer, working in both backend and frontend programming. 
-I love solving problems.
-I have experience in backend as well as frontent development and also
-Love competitive programming.
-I am also confident with Data Structures and
-Algorithms, Object-Oriented Programming, Database
-Management Systems, Operating Systems
-</p>
 - 🔭 I’m currently working on my side projects
 - 🌱 I’m currently learning software architecture
 - 👯 I’m looking to collaborate on your open source projects
