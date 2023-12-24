@@ -1,7 +1,7 @@
 # Hello there I am Hachem Wafaa👋
 
 <a href="https://ibb.co/2vN5Wbb">
-  <img src="https://i.ibb.co/GWTFnhh/1.png" alt="1" border="0" ">
+  <p align="center"><img src="https://i.ibb.co/GWTFnhh/1.png" alt="1" border="0" "></p>
 </a>
 
 ## My tech stack
