@@ -1,7 +1,7 @@
 # Hello there I am Viral Bhadeshiya👋
 
 <a href="https://ibb.co/2vN5Wbb">
-  <img src="https://i.ibb.co/GWTFnhh/1.png" alt="1" border="0" style="width:100%;">
+  <img src="https://i.ibb.co/GWTFnhh/1.png" alt="1" border="0" ">
 </a>
 
 
