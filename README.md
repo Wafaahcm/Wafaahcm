@@ -1,11 +1,8 @@
-# Hello there I am Viral Bhadeshiya👋
+# Hello there I am Hachem Wafaa👋
 
 <a href="https://ibb.co/2vN5Wbb">
   <img src="https://i.ibb.co/GWTFnhh/1.png" alt="1" border="0" ">
 </a>
-
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ## My tech stack
 
