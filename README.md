@@ -13,8 +13,7 @@
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
 </p>
 
-- 🔭 I'm currently working on UIR e-Shop and the MMC website.
-- 🌱 🌱 I'm currently learning software engineering with .NET.
+🔭 I am a passionate .NET Developer with expertise in C#.
 - 👯 I'm open to collaborating on your open source projects.
 - 💬 Ask me about programming and development.
 - 📫 How to reach me: wafaahachem1431@gmail.com .
